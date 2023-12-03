@@ -1,4 +1,4 @@
-# Code Samples ([Show Reel Link](https://youtu.be/UKFNE_P-v_Y))
+# Code Samples
 
 Included are 4 sample projects with digital signal processing in C++, C# and MatLab. Explanatory README files are in each folder. Short descriptions follow here.
 
