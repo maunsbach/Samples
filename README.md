@@ -15,6 +15,3 @@ Banded Waveguide impact synthesis is implemented using damped white noise throug
 ### EKS (C++, MatLab)
 An advanced Karplus-Strong implementation used for an interactive instrument. Filter design.
 
-### Echo Cancellation (MatLab)
-Adaptive filtering to cancel out an acoustic echo in phone conversations that pick up the sound from their own speaker.
-
